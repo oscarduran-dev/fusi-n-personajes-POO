@@ -1,4 +1,5 @@
 Proyecto Personajes con Fusión
+
 Este proyecto define una clase Personaje que permite crear personajes con atributos de nombre, fuerza y velocidad.
 
 El programa permite:
